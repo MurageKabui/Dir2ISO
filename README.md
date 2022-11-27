@@ -1,7 +1,8 @@
 
+
 ### What is DIR2ISO?
    
-This commandline application and AutoIT UDF helps you easily create and pack 
+This commandline application and AutoIT UDF helps you easily create and pack <br>
 local directories to an [ISO image](https://en.m.wikipedia.org/wiki/Optical_disc_image) from AutoIT.
 
 [Visit Microsoft's WinAPI Docs](https://learn.microsoft.com/en-us/windows/win32/api/imapi2fs/nn-imapi2fs-ifilesystemimage)
@@ -34,3 +35,7 @@ local directories to an [ISO image](https://en.m.wikipedia.org/wiki/Optical_disc
 |4| An Invalid Source Directory is specified on *-i* switch.|
 |5| An invalid Volume label And/or The length exceeds **15** characters.<br>Allowed characters are alphanumeric, underscore, colon and forward slash|
 
+
+## Example
+
+> CL-Dir2ISOfs.exe -i "E:\Pictures" -o BirthdayPics.iso -l "24th Birthday"
