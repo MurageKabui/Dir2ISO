@@ -1,6 +1,6 @@
 
 
-### DIR2ISO?
+### DIR2ISO
    
 Create and pack local directories to an [ISO image](https://en.m.wikipedia.org/wiki/Optical_disc_image) from AutoIT.
 
