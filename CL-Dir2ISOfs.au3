@@ -75,7 +75,7 @@ EndSwitch
 Global Const $S_G_INPUTFQPN = _CmdLine_Get('i', Null)
 Global Const $S_G_OUTPUTFQPN = _CmdLine_Get('o', Null)
 Global Const $S_G_VOLUME_LABEL = String(_CmdLine_Get('l', _NowCalcDate())) ; Sets a String that contains the volume name for this file system image
-Global Const $B_G_VERSBOSITY = Not _CmdLine_KeyExists('v-off') ; Debug mode
+Global Const $B_G_VERSBOSITY = Not _CmdLine_KeyExists('v-off') ; Turn off STDOUT Verbosity.
 
 
 If (IsKeyword($S_G_INPUTFQPN) = $KEYWORD_NULL_ Or IsKeyword($S_G_OUTPUTFQPN) = $KEYWORD_NULL_) Then
