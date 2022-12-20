@@ -6,18 +6,9 @@ Create and pack local directories to an [ISO image](https://en.m.wikipedia.org/w
 
 [Visit Microsoft's WinAPI Docs](https://learn.microsoft.com/en-us/windows/win32/api/imapi2fs/nn-imapi2fs-ifilesystemimage)
 
-### **Minimum** supported client
-
-> Windows Vista, Windows XP with SP2 [desktop apps only]
-
-
-
 <hr>
 
-## Commandline Version
-
 ### Switches.
-
 
 |Switch| Input Type  | Description | Default Value|Sample Usage|
 |--|--|--|--|--|
