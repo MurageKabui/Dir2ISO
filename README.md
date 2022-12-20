@@ -1,6 +1,6 @@
 ### DIR2ISO
    
-An AutoIT UDF and Commandline app to create and pack local directories to an [ISO image](https://en.m.wikipedia.org/wiki/Optical_disc_image).
+An AutoIT UDF and Commandline app to create and pack local directories to a [.ISO disk image](https://en.m.wikipedia.org/wiki/Optical_disc_image).
 
 [Visit Microsoft's WinAPI Docs](https://learn.microsoft.com/en-us/windows/win32/api/imapi2fs/nn-imapi2fs-ifilesystemimage)
 
